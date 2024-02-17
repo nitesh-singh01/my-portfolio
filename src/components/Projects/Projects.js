@@ -1,8 +1,8 @@
 import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
-import ProjectCard from "./ProjectCards";
+import { Container } from "react-bootstrap";
+// import ProjectCard from "./ProjectCards";
 import comingSoon from "../../Assets/coming-soon.png";
-import chatify from "../../Assets/Projects/chatify.png";
+// import chatify from "../../Assets/Projects/chatify.png";
 
 function Projects() {
   return (
